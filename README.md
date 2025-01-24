@@ -1,4 +1,4 @@
-# 3D Model Datsun 240KGT
+# 3D Model Datsun 240K-GT
 
 Welcome to the **3D Model Datsun 240K-GT** project! This repository contains a simple 3D model of the iconic Datsun 240KGT, which you can use for visualization, animation, or integration into your 3D applications. This README provides an overview of the project and instructions on how to get started.
 
